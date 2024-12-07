@@ -2,7 +2,7 @@
 ![Output sample](Showcase/WhackMoleKids.gif)
 
 ## Whack a mole
-Create whack a mole game with Unity engine, and try to build it to both iOS and Android.
+Create a simple clicking game with Unity engine, and try to build it to both iOS and Android. inspired by cookie clicker and Arcade whack a mole
 
 ### Tools
 Unity 2021.3.16f1<br>
