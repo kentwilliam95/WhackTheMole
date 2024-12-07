@@ -1,5 +1,5 @@
 # Showcase
-![Output sample](Assets/Showcase/WhackMoleKids.gif)
+![Output sample](Showcase/WhackMoleKids.gif)
 
 ## Whack a mole
 Create whack a mole game with Unity engine, and try to build it to both iOS and Android.
